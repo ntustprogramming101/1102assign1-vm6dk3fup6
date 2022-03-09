@@ -1,4 +1,3 @@
-
 PImage bg;
 PImage groundhog;
 PImage life;
@@ -68,9 +67,5 @@ void draw() {
     fill(255,0,0);ellipse(lightX,lightY,10,10);
     lightX += lightSpeed; 
     }
-    
-  
-  
  }
-  
-}
+ }
